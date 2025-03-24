@@ -1,18 +1,18 @@
-React Native FCM with Twilio
+# React Native FCM with Twilio
 
-This project integrates Firebase Cloud Messaging (FCM) with Twilio for push notifications in React Native apps.
+## This project integrates Firebase Cloud Messaging (FCM) with Twilio for push notifications in React Native apps.
 
 Features
 
-Receive push notifications
+--- Receive push notifications
 
-Show local notifications
+--- Show local notifications
 
-Schedule notifications
+--- Schedule notifications
 
-Handle notification click events
+--- Handle notification click events
 
-Installation
+## Installation
 
 npm install react-native-fcm-twilio --save
 
@@ -26,7 +26,7 @@ Download google-services.json from Firebase
 
 Place it inside your android/app/ directory
 
-Android Setup
+## Android Setup
 
 android/build.gradle
 
